@@ -1,0 +1,35 @@
+﻿.fragment {
+    /* バナーと本体の行を含むグリッドを定義 */
+    -ms-grid-columns: 1fr;
+    -ms-grid-rows: 128px 1fr;
+    display: -ms-grid;
+    height: 100%;
+    width: 100%;
+}
+
+    .fragment header[role=banner] {
+        /* 戻るボタンとページ タイトルの列を含むグリッドを定義します。 */
+        -ms-grid-columns: 120px 1fr;
+        -ms-grid-rows: 1fr;
+        display: -ms-grid;
+    }
+
+        .fragment header[role=banner] .win-backbutton {
+            margin-left: 39px;
+            margin-top: 59px;
+        }
+
+        .fragment header[role=banner] .titlearea {
+            -ms-grid-column: 2;
+            margin-top: 37px;
+        }
+
+            .fragment header[role=banner] .titlearea .pagetitle {
+                width: calc(100% - 20px);
+            }
+
+    .fragment section[role=main] {
+        -ms-grid-row: 2;
+        height: 100%;
+        width: 100%;
+    }

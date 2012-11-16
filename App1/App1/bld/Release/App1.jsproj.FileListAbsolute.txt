@@ -1,0 +1,13 @@
+C:\Users\源一郎\Desktop\App1\App1\bin\Release\resources.pri
+C:\Users\源一郎\Desktop\App1\App1\bin\Release\AppxManifest.xml
+C:\Users\源一郎\Desktop\App1\App1\bin\Release\App1.build.appxrecipe
+C:\Users\源一郎\Desktop\App1\App1\bld\Release\priconfig.xml.intermediate
+C:\Users\源一郎\Desktop\App1\App1\bld\Release\layout.resfiles.intermediate
+C:\Users\源一郎\Desktop\App1\App1\bld\Release\resources.resfiles.intermediate
+C:\Users\源一郎\Desktop\App1\App1\bld\Release\pri.resfiles.intermediate
+C:\Users\源一郎\Desktop\App1\App1\bld\Release\priconfig.xml
+C:\Users\源一郎\Desktop\App1\App1\bld\Release\layout.resfiles
+C:\Users\源一郎\Desktop\App1\App1\bld\Release\resources.resfiles
+C:\Users\源一郎\Desktop\App1\App1\bld\Release\pri.resfiles
+C:\Users\源一郎\Desktop\App1\App1\bld\Release\LanguageQualifiers.txt
+C:\Users\源一郎\Desktop\App1\App1\bld\Release\ProjectArchitectures.txt

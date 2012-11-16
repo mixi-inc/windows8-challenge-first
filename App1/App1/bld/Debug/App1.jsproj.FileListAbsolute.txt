@@ -1,0 +1,26 @@
+C:\Users\源一郎\Desktop\App1\App1\bin\Debug\resources.pri
+C:\Users\源一郎\Desktop\App1\App1\bin\Debug\AppxManifest.xml
+C:\Users\源一郎\Desktop\App1\App1\bin\Debug\App1.build.appxrecipe
+C:\Users\源一郎\Desktop\App1\App1\bld\Debug\priconfig.xml.intermediate
+C:\Users\源一郎\Desktop\App1\App1\bld\Debug\layout.resfiles.intermediate
+C:\Users\源一郎\Desktop\App1\App1\bld\Debug\resources.resfiles.intermediate
+C:\Users\源一郎\Desktop\App1\App1\bld\Debug\pri.resfiles.intermediate
+C:\Users\源一郎\Desktop\App1\App1\bld\Debug\priconfig.xml
+C:\Users\源一郎\Desktop\App1\App1\bld\Debug\layout.resfiles
+C:\Users\源一郎\Desktop\App1\App1\bld\Debug\resources.resfiles
+C:\Users\源一郎\Desktop\App1\App1\bld\Debug\pri.resfiles
+C:\Users\源一郎\Desktop\App1\App1\bld\Debug\LanguageQualifiers.txt
+C:\Users\源一郎\Desktop\App1\App1\bld\Debug\ProjectArchitectures.txt
+\\vmware-host\Shared Folders\windows8-challenge\App1\App1\bin\Debug\resources.pri
+\\vmware-host\Shared Folders\windows8-challenge\App1\App1\bin\Debug\AppxManifest.xml
+\\vmware-host\Shared Folders\windows8-challenge\App1\App1\bin\Debug\App1.build.appxrecipe
+\\vmware-host\Shared Folders\windows8-challenge\App1\App1\bld\Debug\priconfig.xml.intermediate
+\\vmware-host\Shared Folders\windows8-challenge\App1\App1\bld\Debug\layout.resfiles.intermediate
+\\vmware-host\Shared Folders\windows8-challenge\App1\App1\bld\Debug\resources.resfiles.intermediate
+\\vmware-host\Shared Folders\windows8-challenge\App1\App1\bld\Debug\pri.resfiles.intermediate
+\\vmware-host\Shared Folders\windows8-challenge\App1\App1\bld\Debug\priconfig.xml
+\\vmware-host\Shared Folders\windows8-challenge\App1\App1\bld\Debug\layout.resfiles
+\\vmware-host\Shared Folders\windows8-challenge\App1\App1\bld\Debug\resources.resfiles
+\\vmware-host\Shared Folders\windows8-challenge\App1\App1\bld\Debug\pri.resfiles
+\\vmware-host\Shared Folders\windows8-challenge\App1\App1\bld\Debug\LanguageQualifiers.txt
+\\vmware-host\Shared Folders\windows8-challenge\App1\App1\bld\Debug\ProjectArchitectures.txt

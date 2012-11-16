@@ -1,0 +1,22 @@
+﻿    .smallListIconTextItem
+{
+    width: 242px;
+    height: 70px;
+    padding: 5px;
+    overflow: hidden;
+    display: -ms-grid;
+}
+
+    .smallListIconTextItem img.smallListIconTextItem-Image 
+    {
+        width: 60px;
+        height: 60px;
+        margin: 5px;
+        -ms-grid-column: 1;
+    }
+
+    .smallListIconTextItem .smallListIconTextItem-Detail
+    {
+        margin: 5px;
+        -ms-grid-column: 2;
+    }

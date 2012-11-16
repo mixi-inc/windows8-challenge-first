@@ -1,0 +1,20 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script src="/js/pages/view.js"></script>
+    <link href="/css/view.css" rel="stylesheet" />
+</head>
+<body>
+    <p>Windows8 Challenge Sample Application</p>
+    <div id="simple_ItemTemplate" data-win-control="WinJS.Binding.Template" style="display: none">
+            <div class="smallListIconTextItem">
+                <img src="#" class="smallListIconTextItem-Image" data-win-bind="src: src" />
+                <div class="smallListIconTextItem-Detail">
+                    <h4 data-win-bind="innerText: title"></h4>
+                </div>
+            </div>
+        </div>
+    <div id="itemList" data-win-control="WinJS.UI.ListView"></div>
+</body>
+</html>

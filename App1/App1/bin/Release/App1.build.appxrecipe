@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ALANSMITHEE</Machine>
+    <WindowsUser>源一郎</WindowsUser>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\源一郎\Desktop\App1\App1\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\源一郎\Desktop\App1\App1\css\detail.css">
+      <PackagePath>css\detail.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\源一郎\Desktop\App1\App1\css\view.css">
+      <PackagePath>css\view.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\源一郎\Desktop\App1\App1\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\源一郎\Desktop\App1\App1\default.html">
+      <PackagePath>default.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\源一郎\Desktop\App1\App1\html\detail.html">
+      <PackagePath>html\detail.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\源一郎\Desktop\App1\App1\html\home.html">
+      <PackagePath>html\home.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\源一郎\Desktop\App1\App1\html\login.html">
+      <PackagePath>html\login.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\源一郎\Desktop\App1\App1\html\view.html">
+      <PackagePath>html\view.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\源一郎\Desktop\App1\App1\images\Cliff.jpg">
+      <PackagePath>images\Cliff.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\源一郎\Desktop\App1\App1\images\Grapes.jpg">
+      <PackagePath>images\Grapes.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\源一郎\Desktop\App1\App1\images\Rainier.jpg">
+      <PackagePath>images\Rainier.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\源一郎\Desktop\App1\App1\images\Sunset.jpg">
+      <PackagePath>images\Sunset.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\源一郎\Desktop\App1\App1\images\Valley.jpg">
+      <PackagePath>images\Valley.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\源一郎\Desktop\App1\App1\images\Waterfall.jpg">
+      <PackagePath>images\Waterfall.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\源一郎\Desktop\App1\App1\images\logo.png">
+      <PackagePath>images\logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\源一郎\Desktop\App1\App1\images\smalllogo.png">
+      <PackagePath>images\smalllogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\源一郎\Desktop\App1\App1\images\splashscreen.png">
+      <PackagePath>images\splashscreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\源一郎\Desktop\App1\App1\images\storelogo.png">
+      <PackagePath>images\storelogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\源一郎\Desktop\App1\App1\js\APIRequester.js">
+      <PackagePath>js\APIRequester.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\源一郎\Desktop\App1\App1\js\auth\tokenManager.js">
+      <PackagePath>js\auth\tokenManager.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\源一郎\Desktop\App1\App1\js\config.js">
+      <PackagePath>js\config.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\源一郎\Desktop\App1\App1\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\源一郎\Desktop\App1\App1\js\model\dummy.js">
+      <PackagePath>js\model\dummy.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\源一郎\Desktop\App1\App1\js\model\photo.js">
+      <PackagePath>js\model\photo.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\源一郎\Desktop\App1\App1\js\navigator.js">
+      <PackagePath>js\navigator.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\源一郎\Desktop\App1\App1\js\pages\detail.js">
+      <PackagePath>js\pages\detail.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\源一郎\Desktop\App1\App1\js\pages\login.js">
+      <PackagePath>js\pages\login.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\源一郎\Desktop\App1\App1\js\pages\view.js">
+      <PackagePath>js\pages\view.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\源一郎\Desktop\App1\App1\Scripts\jquery-1.8.2.intellisense.js">
+      <PackagePath>Scripts\jquery-1.8.2.intellisense.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\源一郎\Desktop\App1\App1\Scripts\jquery-1.8.2.js">
+      <PackagePath>Scripts\jquery-1.8.2.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\源一郎\Desktop\App1\App1\Scripts\jquery-1.8.2.min.js">
+      <PackagePath>Scripts\jquery-1.8.2.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\源一郎\Desktop\App1\App1\Scripts\underscore.js">
+      <PackagePath>Scripts\underscore.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\源一郎\Desktop\App1\App1\Scripts\underscore.min.js">
+      <PackagePath>Scripts\underscore.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\源一郎\Desktop\App1\App1\packages.config">
+      <PackagePath>packages.config</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\源一郎\Desktop\App1\App1\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\">
+      <Name>Microsoft.WinJS.1.0</Name>
+      <Version>1.0.9200.20512</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.1.0, MinVersion=1.0.9200.20512</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\Microsoft.WinJS.1.0.appx</AppxLocation>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
