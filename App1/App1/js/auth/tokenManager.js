@@ -49,16 +49,9 @@
      * @return {WinJS.Promise} 処理のPromiseオブジェクト
      */
     function _createRefreshTokenRequestAsync(refreshTokenParam) {
-        //トークン取得中の場合はPromiseの後続処理をキューに積み処理をしない
-        if (_isInProccess) {
-            return _createAddWaitingQueueAsync();
-        }
-
-        _isInProccess = true;
         return new WinJS.Promise(function (c, e, p) {
             _createTokenRequestAsync(_getParamRefreshTokenRequest(refreshTokenParam))
-                .then(_onCompleteTokenRequest(c),
-                      _onErrorTokenRequest(e));
+                .then(_onCompleteTokenRequest(c), e);
         });
     }
 
